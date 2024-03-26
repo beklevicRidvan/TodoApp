@@ -7,7 +7,6 @@ Bu basit todo uygulaması, kullanıcıların günlük görevlerini kolayca takip
 - **Görev Oluşturma:** Kullanıcılar istedikleri kadar görev ekleyebilirler.
 - **Görev Düzenleme:** Eklenen görevlerin başlığını ve açıklamasını düzenleyebilirler.
 - **Görev Tamamlama:** Tamamlanan görevler işaretlenebilir ve listeden kaldırılabilir.
-- **Görev Sıralama:** Görevlerin sıralamasını tarih veya isim gibi kriterlere göre değiştirebilirler.
 
 ## Kullanım Kılavuzu
 
